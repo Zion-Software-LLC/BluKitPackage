@@ -1,0 +1,63 @@
+
+BLUKIT(TM) Framework Software License Agreement
+    Copyright (c) 2025 Zion Software, LLC
+    All rights reserved.
+
+THIS AGREEMENT IS A LEGAL DOCUMENT. READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY INSTALLING AND USING THE SOFTWARE, YOU ARE CONFIRMING ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT WISH TO DO SO, DO NOT COMPLETE THE INSTALLATION PROCESS AND DESTROY ALL COPIES OF THE SOFTWARE ON YOUR COMPUTER.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+    OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+    HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+    FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+    OTHER DEALINGS IN THE SOFTWARE.
+
+
+1. Definitions
+(a) "Zion" means Zion Software, LLC.
+(b) "Software" means the BluKit Framework software, and all programs supplied by Zion herewith, and any and all updates thereto.
+(c) "License Key" means the special alpha-numeric code available for purchase from Zion Software that will unlock additional features within the Software.
+(d) "Restricted Software" means the Software used without installing a License Key.
+(e) "License Enabled Software" means the Software used with an installed License Key.
+
+2. License
+This Agreement grants you permission to:
+(a) Install and use the Restricted Software on one or more Mac computers, iPhones, or iPads that are using the Apple ID under which you downloaded or purchased a copy of the Software. 
+(b) Make a copy of the Software in machine-readable form solely for backup purposes. You must reproduce on any such copy all copyright notices and any other proprietary legends on the original copy of the Software. 
+
+3. Compliance
+You agree to implement reasonable controls to ensure that your use of any License Keys or License Enabled Software does not exceed the number of client licenses you have purchased.
+
+4. License Restrictions
+Other than as set forth in Section 2, you may not make or distribute copies of the Software, or electronically transfer the Software from one computer to another or over a network. You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form. You may not rent, lease or sublicense the Software. You may not modify the Software or create derivative works based upon the Software. You may not export the Software into any country prohibited by the United States Export Administration Act and the regulations thereunder.
+
+5. Upgrades, Support and Maintenance
+If this copy of the Software is an upgrade from an earlier version of the Software, it is provided to you on a license exchange basis. You agree by your installation and use of this copy of the Software to voluntarily terminate your earlier end-user license and that you will not continue to use the earlier version of the Software nor transfer it to another. User support and software maintenance is not included in this Software Agreement unless otherwise stated by Zion as part of a separate Support and Maintenance Agreement. 
+
+6. Ownership
+The foregoing license gives you limited rights to use the Software according to Section 2. Although you own the media on which the Software is recorded, you do not become the owner of, and Zion retains title to, the Software and all copies thereof. All rights not specifically granted in this Agreement, including Federal and International Copyrights and Trademarks, are reserved by Zion.
+
+7. No Warranty
+
+SUBJECT TO ANY STATUTORY WARRANTIES WHICH CAN NOT BE EXCLUDED, ZION SOFTWARE MAKES NO WARRANTIES OR CONDITIONS EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, THE WARRANTY OF NON-INFRINGEMENT AND THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, REGARDING BLUKIT WORKBENCH OR TECHNICAL SUPPORT, IF ANY.
+
+The exclusion also applies to any of Zion Software's subcontractors, suppliers, or program developers (collectively called "Suppliers"), Manufacturers, suppliers, or publishers of non-Zion Software Programs may provide their own warranties.
+
+9. Limitation of Liability
+
+NEITHER ZION SOFTWARE NOR ITS SUPPLIERS WILL BE LIABLE FOR ANY DIRECT OR INDIRECT DAMAGES, INCLUDING WITHOUT LIMITATION, LOST PROFITS, LOST SAVINGS, OR ANY INCIDENTAL, SPECIAL, OR OTHER ECONOMIC CONSEQUENTIAL DAMAGES, EVEN IF ZION SOFTWARE IS INFORMED OF THEIR POSSIBILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO YOU.
+
+10. Basis of Bargain
+The limited warranty, exclusive remedies and limited liability set forth above are fundamental elements of the basis of the agreement between Zion and you. Zion would not be able to provide the Software on an economic basis without such limitations.
+
+11. (USA only) Government End Users RESTRICTED RIGHTS LEGEND
+This software is "Restricted Computer Software." Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in this Agreement and as provided in DFARS 227.7202-1(a) and 227.7202-3(a) (1995), DFARS 252.227-7013 (OCT 1988), FAR 12.212(a)(1995), FAR 52.227-19, or FAR 52.227-14, as applicable. Manufacturer: Zion Software, LLC, 2842 Main Street, Suite 325, Glastonbury, CT 06033.
+
+12. (Outside of the USA only) Consumer End Users
+The limitations or exclusions of warranties and liability contained in this agreement do not affect or prejudice the statutory rights of a consumer; i.e., a person acquiring goods otherwise than in the course of a business.
+
+13. General
+This Agreement shall be governed by the internal laws of the State of Connecticut, USA. This Agreement contains the complete agreement between the parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. All questions concerning this Agreement shall be directed to Zion Software, LLC, 2842 Main Street, Suite 325, Glastonbury, CT 06033, USA, Attention: General Counsel.
+

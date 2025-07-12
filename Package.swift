@@ -1,24 +1,34 @@
-// swift-tools-version: 6.1
-// The swift-tools-version declares the minimum version of Swift required to build this package.
-
+// swift-tools-version:5.5
 import PackageDescription
 
+// Bundle up BluKit.xcframework as a Swift Package suitable for integration with Swift Package Manager
+
 let package = Package(
-    name: "BluKitPackage",
+    name: "BluKit",
+    platforms: [
+        .iOS(.v13),
+        .macOS(.v10_15),
+        .macCatalyst(.v13)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "BluKitPackage",
-            targets: ["BluKitPackage"]),
+            name: "BluKit",
+            targets: ["BluKit"]
+        )
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "BluKitPackage"),
-        .testTarget(
-            name: "BluKitPackageTests",
-            dependencies: ["BluKitPackage"]
+        .binaryTarget(
+            name: "BluKit",
+            url: "https://www.zion.com/products/blukit-framework/packages/BluKit.xcframework.2.0.2.zip",
+            checksum: "34f881fe7cf12eaf53b3f1bcaf6fec06969af0881583b375bfc1140edb0e2923"
         ),
+        // Add a fake target to satisfy the swift build system
+        // Add a dependency to the .binaryTarget
+        // Add the expected Sources folder structure: Sources/BluKitPackage/
+        // Add a fake Swift source: Sources/BluKitPackage/BluKitPackage.swift
+        .target(
+            name: "BluKitPackage",
+            dependencies: ["BluKit"]
+        )
     ]
 )
