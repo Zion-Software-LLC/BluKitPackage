@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BluKit",
-            url: "https://www.zion.com/products/blukit-framework/packages/BluKit.xcframework.2.0.2.zip",
-            checksum: "34f881fe7cf12eaf53b3f1bcaf6fec06969af0881583b375bfc1140edb0e2923"
+            url: "https://www.zion.com/products/blukit-framework/packages/BluKit.xcframework.2.0.3.zip",
+            checksum: "e76ae5a8fb80713b346f17553c3ee833a884ec5f56cfd136a3b9de79a9186d4f"
         ),
         // Add a fake target to satisfy the swift build system
         // Add a dependency to the .binaryTarget
