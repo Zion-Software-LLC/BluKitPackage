@@ -18,17 +18,18 @@ THIS AGREEMENT IS A LEGAL DOCUMENT. READ IT CAREFULLY BEFORE COMPLETING THE INST
 1. Definitions
 (a) "Zion" means Zion Software, LLC.
 (b) "Software" means the BluKit Framework software, and all programs supplied by Zion herewith, and any and all updates thereto.
-(c) "License Key" means the special alpha-numeric code available for purchase from Zion Software that will unlock additional features within the Software.
-(d) "Restricted Software" means the Software used without installing a License Key.
+(c) "License Key" means the special License plist file, and/or alpha-numeric code available for purchase under a Commercial License Agreement from Zion Software, the use of which will unlock additional features within the Software.
+(d) "Restricted Software" means the Software used with a demonstration License Key made available for using the Software Examples, or without a License Key.
 (e) "License Enabled Software" means the Software used with an installed License Key.
 
 2. License
-This Agreement grants you permission to:
-(a) Install and use the Restricted Software on one or more Mac computers, iPhones, or iPads that are using the Apple ID under which you downloaded or purchased a copy of the Software. 
+This Software License Agreement grants you permission to:
+(a) Install and use the Restricted Software on one or more Mac computers, iPhones, or iPads that are using the Apple ID under which you purchased a copy of the Software.
 (b) Make a copy of the Software in machine-readable form solely for backup purposes. You must reproduce on any such copy all copyright notices and any other proprietary legends on the original copy of the Software. 
+(c) Purchase from Zion, a Commercial Distribution Software License, which contains distribution rights for embedding the Software within commercially distributed solutions by Zion's customers.
 
 3. Compliance
-You agree to implement reasonable controls to ensure that your use of any License Keys or License Enabled Software does not exceed the number of client licenses you have purchased.
+You agree to implement reasonable controls to ensure that your use of any License Keys, including any demonstration License Key(s) made available by Zion, or License Enabled Software, is in accordance with the Software License Agreement.
 
 4. License Restrictions
 Other than as set forth in Section 2, you may not make or distribute copies of the Software, or electronically transfer the Software from one computer to another or over a network. You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form. You may not rent, lease or sublicense the Software. You may not modify the Software or create derivative works based upon the Software. You may not export the Software into any country prohibited by the United States Export Administration Act and the regulations thereunder.
@@ -59,5 +60,5 @@ This software is "Restricted Computer Software." Use, duplication, or disclosure
 The limitations or exclusions of warranties and liability contained in this agreement do not affect or prejudice the statutory rights of a consumer; i.e., a person acquiring goods otherwise than in the course of a business.
 
 13. General
-This Agreement shall be governed by the internal laws of the State of Connecticut, USA. This Agreement contains the complete agreement between the parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. All questions concerning this Agreement shall be directed to Zion Software, LLC, 2842 Main Street, Suite 325, Glastonbury, CT 06033, USA, Attention: General Counsel.
+This Agreement shall be governed by the internal laws of the State of Connecticut, USA. This Agreement contains the complete agreement between the parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. All questions concerning this Agreement shall be directed by email to: legal@zionsoftware.com or by Delivery Service to Zion Software, LLC, 2842 Main Street, Suite 325, Glastonbury, CT 06033, USA, Attention: General Counsel.
 
