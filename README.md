@@ -8,5 +8,5 @@ This repository contains the necessary structure and Package.swift to allow BluK
 
 
 In the Package.swift, the url for BluKit binaryTarget is currently set to:
-url: "https://www.zion.com/packages/blukit-framework/BluKit.xcframework.2.0.4.zip"
+url: "https://www.zion.com/packages/blukit-framework/BluKit.xcframework.2.0.6.zip"
 
